@@ -1,0 +1,14 @@
+obj
+bin
+_Resharper.*
+*.csproj.user
+*.resharper.user
+*.resharper
+*.suo
+*.cache
+*~
+*.swp
+*.ncrunchsolution
+*.ncrunchsolution.user
+*.ncrunch*
+Properties
